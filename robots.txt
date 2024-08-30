@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://gaprdo.github.io/sitemap/sitemap.GuM.gz
