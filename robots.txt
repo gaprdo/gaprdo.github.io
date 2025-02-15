@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://gaprdo.csgad.com/RYb/sitemap.xml.gz
